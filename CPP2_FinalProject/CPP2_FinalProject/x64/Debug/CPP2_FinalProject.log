@@ -1,0 +1,11 @@
+﻿  CPP2_FinalProject.cpp
+D:\(NonProtectedFiles)\C++\CPP2_FinalProject\CPP2_FinalProject\MainHeader.h(197,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'CPP2_FinalProject.cpp')
+  
+D:\(NonProtectedFiles)\C++\CPP2_FinalProject\CPP2_FinalProject\MainHeader.h(222,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'CPP2_FinalProject.cpp')
+  
+D:\(NonProtectedFiles)\C++\CPP2_FinalProject\CPP2_FinalProject\CPP2_FinalProject.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\(NonProtectedFiles)\C++\CPP2_FinalProject\CPP2_FinalProject\MainHeader.h(422): warning C4715: 'FindMaze': not all control paths return a value
+  LINK : D:\(NonProtectedFiles)\C++\CPP2_FinalProject\x64\Debug\CPP2_FinalProject.exe not found or not built by the last incremental link; performing full link
+  CPP2_FinalProject.vcxproj -> D:\(NonProtectedFiles)\C++\CPP2_FinalProject\x64\Debug\CPP2_FinalProject.exe
